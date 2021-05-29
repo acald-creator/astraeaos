@@ -1,0 +1,3 @@
+[submodule "installed-packages/pkgconf/pkgconf"]
+	path = installed-packages/pkgconf/pkgconf
+	url = ssh://astraeaosdev@vault.phacility.com/diffusion/2/astraeaos-packages.git
